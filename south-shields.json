@@ -1,0 +1,1376 @@
+{
+    "Weekday": [
+        {
+            "Time": "0544",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0556",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0608",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0620",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0632",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0644",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0656",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0708",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0720",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0732",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0744",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0756",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0808",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0820",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0832",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0844",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0856",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0908",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0920",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0932",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0944",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0956",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1008",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1020",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1032",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1044",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1056",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1108",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1120",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1132",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1144",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1156",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1208",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1220",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1232",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1244",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1256",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1308",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1320",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1332",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1344",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1356",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1408",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1420",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1432",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1444",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1456",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1508",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1520",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1530",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1544",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1556",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1608",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1620",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1632",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1644",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1656",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1708",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1720",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1732",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1744",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1756",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1810",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1820",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "1826",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1841",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1856",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1911",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1926",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1941",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1956",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2011",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2026",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2041",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2056",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2111",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2126",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2141",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2156",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2211",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2226",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2241",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2256",
+            "Line": "Yellow",
+            "Terminates": "Monument via Whitley Bay",
+            "dir": 1
+        },
+        {
+            "Time": "2311",
+            "Line": "Yellow",
+            "Terminates": "Manors",
+            "dir": 1
+        },
+        {
+            "Time": "2326",
+            "Line": "Yellow",
+            "Terminates": "Benton",
+            "dir": 1
+        },
+        {
+            "Time": "2341",
+            "Line": "Yellow",
+            "Terminates": "Benton",
+            "dir": 1
+        },
+        {
+            "Time": "2356",
+            "Line": "Yellow",
+            "Terminates": "Benton",
+            "dir": 1
+        }
+    ],
+    "Saturday": [
+        {
+            "Time": "0548",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0611",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0626",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0641",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0656",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0711",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0726",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0741",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0756",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0811",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0826",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0841",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0856",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0910",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0926",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0942",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0954",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1006",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1018",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1030",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1042",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1054",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1106",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1118",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1130",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1142",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1154",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1206",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1218",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1230",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1242",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1254",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1306",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1318",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1330",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1342",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1354",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1406",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1418",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1430",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1442",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1454",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1506",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1518",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1530",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1542",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1554",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1606",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1618",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1630",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1642",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1654",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1706",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1718",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1730",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1742",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1756",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1811",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1826",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1835",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "1841",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1856",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1911",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1926",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1941",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1956",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2011",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2026",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2041",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2056",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2111",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2126",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2141",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2156",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2211",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2226",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2241",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2256",
+            "Line": "Yellow",
+            "Terminates": "Monument via Whitley Bay",
+            "dir": 1
+        },
+        {
+            "Time": "2311",
+            "Line": "Yellow",
+            "Terminates": "Manors",
+            "dir": 1
+        },
+        {
+            "Time": "2326",
+            "Line": "Yellow",
+            "Terminates": "Benton",
+            "dir": 1
+        },
+        {
+            "Time": "2341",
+            "Line": "Yellow",
+            "Terminates": "Benton",
+            "dir": 1
+        },
+        {
+            "Time": "2356",
+            "Line": "Yellow",
+            "Terminates": "Benton",
+            "dir": 1
+        }
+    ],
+    "Sunday": [
+        {
+            "Time": "0703",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0733",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0803",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0827",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0857",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0927",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0956",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1011",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1026",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1041",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1056",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1111",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1126",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1141",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1156",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1211",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1226",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1241",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1256",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1311",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1326",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1341",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1356",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1411",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1426",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1441",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1456",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1511",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1526",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1541",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1556",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1611",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1626",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1641",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1656",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1711",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1726",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1741",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1756",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1811",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1826",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1841",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1856",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1911",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1926",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1941",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1956",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2011",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2026",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2041",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2056",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2111",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2126",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2141",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2156",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2211",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2226",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2241",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2256",
+            "Line": "Yellow",
+            "Terminates": "Monument via Whitley Bay",
+            "dir": 1
+        }
+    ]
+}

@@ -1,0 +1,2732 @@
+{
+    "Weekday": [
+        {
+            "Time": "0550",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0603",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0615",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0627",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0637",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0649",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0701",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0713",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0725",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0737",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0749",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0801",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0813",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0825",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0837",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0849",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0901",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0913",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0925",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0937",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0949",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1002",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1013",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1025",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1037",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1049",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1101",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1113",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1125",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1137",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1149",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1201",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1213",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1225",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1237",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1249",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1301",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1313",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1325",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1337",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1349",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1401",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1413",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1425",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1437",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1449",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1501",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1513",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1525",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1537",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1549",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1601",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1613",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1625",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1637",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1649",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1701",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1714",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1725",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1737",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1749",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1804",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1816",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1825",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1837",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1851",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1906",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1921",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1936",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1951",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2006",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2021",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2036",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2051",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2106",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2121",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2136",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2151",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2206",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2221",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2236",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2251",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2306",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2321",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2336",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0607",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0619",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0631",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0643",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0655",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0707",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0719",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0731",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0743",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0755",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0807",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0819",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0831",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0843",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0855",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0907",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0918",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0931",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0943",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0955",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1007",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1019",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1031",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1043",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1055",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1107",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1119",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1131",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1143",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1155",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1207",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1219",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1231",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1243",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1255",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1307",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1319",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1331",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1343",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1355",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1407",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1419",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1431",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1443",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1455",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1507",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1519",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1531",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1543",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1555",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1607",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1619",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1631",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1643",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1655",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1707",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1719",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1732",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1744",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1757",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1812",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1824",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1834",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "1842",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1857",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1912",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1927",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1942",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1957",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2012",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2028",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2042",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2057",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2112",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2127",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2142",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2157",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2212",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2227",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2242",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2257",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2312",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2322",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "2337",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2352",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        }
+    ],
+    "Saturday": [
+        {
+            "Time": "0555",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0606",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0621",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0636",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0651",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0706",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0721",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0736",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0751",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0806",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0821",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0836",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0851",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0906",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0921",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0936",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0950",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1002",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1014",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1026",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1038",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1050",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1102",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1114",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1126",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1138",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1150",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1202",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1214",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1226",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1238",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1250",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1302",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1314",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1326",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1338",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1350",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1402",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1414",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1426",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1438",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1450",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1502",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1514",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1526",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1538",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1550",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1602",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1616",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1626",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1638",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1650",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1702",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1714",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1726",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1738",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1750",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1803",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1818",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1826",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1838",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1851",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1906",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1921",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1936",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1951",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2006",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2021",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2036",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2051",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2106",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2121",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2136",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2151",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2206",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2221",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2236",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2251",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2306",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2321",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2336",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0611",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0627",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0642",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0657",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0712",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0727",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0742",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0757",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0812",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0827",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0842",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0857",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0912",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0930",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0942",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0954",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1006",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1018",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1030",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1042",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1054",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1106",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1118",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1130",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1142",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1154",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1206",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1218",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1230",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1242",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1254",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1306",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1318",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1330",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1342",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1354",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1406",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1418",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1430",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1442",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1454",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1506",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1518",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1530",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1542",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1554",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1606",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1618",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1632",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1642",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1654",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1706",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1718",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1730",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1743",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1757",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1812",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1826",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1835",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "1842",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1857",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1912",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1927",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1942",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1957",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2012",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2027",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2042",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2057",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2112",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2127",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2142",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2157",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2212",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2227",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2242",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2257",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2312",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2322",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "2337",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2352",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        }
+    ],
+    "Sunday": [
+        {
+            "Time": "0655",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0723",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0744",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0814",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0844",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0914",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0941",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0953",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1006",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1021",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1036",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1051",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1106",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1121",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1136",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1151",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1206",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1221",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1236",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1251",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1306",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1321",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1336",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1351",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1406",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1421",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1436",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1451",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1506",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1521",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1536",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1551",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1606",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1621",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1636",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1651",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1706",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1721",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1736",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1751",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1806",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1821",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1836",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1851",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1906",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1921",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1936",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1951",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2006",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2021",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2036",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2051",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2106",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2121",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2136",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2151",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2206",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2221",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2236",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2251",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2306",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2321",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2336",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0711",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0741",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0805",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0835",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0905",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0935",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0957",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1012",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1027",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1042",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1057",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1112",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1127",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1142",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1157",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1212",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1227",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1242",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1257",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1312",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1327",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1342",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1357",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1412",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1427",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1442",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1457",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1512",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1527",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1542",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1557",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1612",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1627",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1642",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1657",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1712",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1727",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1742",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1757",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1812",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1827",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1842",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1857",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1912",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1927",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1942",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1957",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2012",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2027",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2042",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2057",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2112",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2127",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2142",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2157",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2212",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2227",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2242",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2257",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        }
+    ]
+}

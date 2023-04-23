@@ -1,0 +1,2774 @@
+{
+    "Weekday": [
+        {
+            "Time": "0601",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0613",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0625",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0637",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0649",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0701",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0713",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0725",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0737",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0749",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0801",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0813",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0825",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0837",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0849",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0901",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0913",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0925",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0937",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0949",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1001",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1013",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1025",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1037",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1049",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1101",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1113",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1125",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1137",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1149",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1201",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1213",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1225",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1237",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1249",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1301",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1313",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1325",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1337",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1349",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1401",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1413",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1425",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1437",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1449",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1459",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1513",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1525",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1537",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1548",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1600",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1612",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1624",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1636",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1648",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1700",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1711",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1719",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "1727",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1742",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1757",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1813",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1828",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1843",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1858",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1913",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1928",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1943",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1958",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2013",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2028",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2043",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2058",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2113",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2128",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2143",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2158",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2213",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2228",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2243",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2310",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2322",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2337",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2352",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0539",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0601",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0616",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0631",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0643",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0655",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0707",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0719",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0731",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0743",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0755",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0807",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0819",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0831",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0843",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0855",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0907",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0919",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0931",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0943",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0955",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1007",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1019",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1031",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1043",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1055",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1107",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1119",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1131",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1143",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1155",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1207",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1219",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1231",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1243",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1255",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1307",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1319",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1331",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1343",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1355",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1407",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1419",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1431",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1443",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1455",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1507",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1519",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1531",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1543",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1555",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1607",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1619",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1631",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1643",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1656",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1707",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1720",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1732",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1744",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1756",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1808",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1820",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1830",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1842",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1854",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1906",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1921",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1936",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1951",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2006",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2021",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2036",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2051",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2106",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2121",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2136",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2151",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2206",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2221",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2236",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2251",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2306",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2321",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2336",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2351",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0006",
+            "Line": "Yellow",
+            "Terminates": "Monument",
+            "dir": 1
+        },
+        {
+            "Time": "0021",
+            "Line": "Yellow",
+            "Terminates": "Manors",
+            "dir": 1
+        }
+    ],
+    "Saturday": [
+        {
+            "Time": "0613",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0628",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0643",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0658",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0713",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0728",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0743",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0757",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0812",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0826",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0839",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0851",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0903",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0915",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0927",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0939",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0951",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1003",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1015",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1027",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1039",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1051",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1103",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1115",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1127",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1139",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1151",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1203",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1215",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1227",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1239",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1251",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1303",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1315",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1327",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1339",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1351",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1403",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1415",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1427",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1439",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1451",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1503",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1515",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1527",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1539",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1551",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1603",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1615",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1627",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1639",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1651",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1703",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1715",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1727",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1742",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1757",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1813",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1828",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1843",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1858",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1913",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1928",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1943",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1958",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2013",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2028",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2043",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2058",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2113",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2128",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2143",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2158",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2213",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2228",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2243",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2310",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2322",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2337",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2352",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0557",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0612",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0627",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0642",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0657",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0712",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0721",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0736",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0751",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0806",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0821",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0836",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0851",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0906",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0921",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0936",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0951",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1006",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1021",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1036",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1052",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1105",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1117",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1129",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1141",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1153",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1205",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1217",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1229",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1241",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1253",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1305",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1317",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1329",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1341",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1353",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1405",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1417",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1429",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1441",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1453",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1505",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1517",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1529",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1541",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1553",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1605",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1617",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1629",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1641",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1653",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1705",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1717",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1729",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1741",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1753",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1805",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1817",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1829",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1842",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1852",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1906",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1921",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1936",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1951",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2006",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2021",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2036",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2051",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2106",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2121",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2136",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2151",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2206",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2221",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2236",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2251",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2306",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2321",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2336",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2351",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0006",
+            "Line": "Yellow",
+            "Terminates": "Monument",
+            "dir": 1
+        },
+        {
+            "Time": "0021",
+            "Line": "Yellow",
+            "Terminates": "Manors",
+            "dir": 1
+        }
+    ],
+    "Sunday": [
+        {
+            "Time": "0619",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0643",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0713",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0743",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0813",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0843",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0913",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0943",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1013",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1028",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1043",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1058",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1113",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1128",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1143",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1158",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1213",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1228",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1243",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1258",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1313",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1328",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1343",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1358",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1413",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1428",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1443",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1458",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1513",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1528",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1543",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1558",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1613",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1628",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1643",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1658",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1713",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1728",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1743",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1758",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1813",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1828",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1843",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1858",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1913",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1928",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1943",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1958",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2013",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2028",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2043",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2058",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2113",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2128",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2143",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2158",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2213",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2228",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2243",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2310",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2322",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2337",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2352",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0642",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0712",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0742",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0812",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0842",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0912",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "0936",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1006",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1021",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1036",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1051",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1106",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1121",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1136",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1151",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1206",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1221",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1236",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1251",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1306",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1321",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1336",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1351",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1406",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1421",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1436",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1451",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1506",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1521",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1536",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1551",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1606",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1621",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1636",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1651",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1706",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1721",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1736",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1751",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1806",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1821",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1836",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1851",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1906",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1921",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1936",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "1951",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2006",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2021",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2036",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2051",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2106",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2121",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2136",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2151",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2206",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2221",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2236",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2251",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2306",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2321",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2336",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        },
+        {
+            "Time": "2351",
+            "Line": "Yellow",
+            "Terminates": "St James",
+            "dir": 1
+        }
+    ]
+}

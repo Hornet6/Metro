@@ -1,0 +1,2816 @@
+{
+    "Weekday": [
+        {
+            "Time": "0545",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0559",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0611",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0623",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0635",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0647",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0659",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0711",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0723",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0735",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0747",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0759",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0811",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0823",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0835",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0847",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0859",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0911",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0923",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0935",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0947",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0959",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1011",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1023",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1035",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1047",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1059",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1111",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1123",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1135",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1147",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1159",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1211",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1223",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1235",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1247",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1259",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1311",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1323",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1335",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1347",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1359",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1411",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1423",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1435",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1447",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1459",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1511",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1520",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1535",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1547",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1559",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1610",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1622",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1634",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1646",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1658",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1710",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1722",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1733",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1740",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "1749",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1804",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1819",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1834",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1849",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1904",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1919",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1934",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1949",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2004",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2019",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2034",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2049",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2104",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2119",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2134",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2149",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2204",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2219",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2234",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2249",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2304",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2319",
+            "Line": "Yellow",
+            "Terminates": "Pelaw",
+            "dir": 0
+        },
+        {
+            "Time": "2331",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2343",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2358",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0013",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0517",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0539",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0554",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0609",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0621",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0633",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0645",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0657",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0709",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0721",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0733",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0745",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0757",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0809",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0821",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0833",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0845",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0857",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0909",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0921",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0933",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0945",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0957",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1009",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1021",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1033",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1045",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1057",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1109",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1121",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1133",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1145",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1157",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1209",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1221",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1233",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1245",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1257",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1309",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1321",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1333",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1345",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1357",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1409",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1421",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1433",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1445",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1457",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1509",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1521",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1533",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1545",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1557",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1609",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1621",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1633",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1645",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1657",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1709",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1721",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1733",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1745",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1757",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1809",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1821",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1833",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1845",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1859",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1914",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1929",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1944",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1959",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2014",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2029",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2044",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2059",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2114",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2129",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2144",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2159",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2214",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2229",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2244",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2259",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2314",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2329",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2344",
+            "Line": "Green",
+            "Terminates": "Monument via Whitley Bay",
+            "dir": 1
+        },
+        {
+            "Time": "2359",
+            "Line": "Green",
+            "Terminates": "Manors",
+            "dir": 1
+        }
+    ],
+    "Saturday": [
+        {
+            "Time": "0549",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0604",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0619",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0634",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0649",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0704",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0719",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0734",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0749",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0804",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0818",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0833",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0847",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0900",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0912",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0924",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0936",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0948",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1000",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1012",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1024",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1036",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1048",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1100",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1112",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1124",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1136",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1148",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1200",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1212",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1224",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1236",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1248",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1300",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1312",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1324",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1336",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1348",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1400",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1412",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1424",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1436",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1448",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1500",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1512",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1524",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1536",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1548",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1600",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1612",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1624",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1636",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1648",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1700",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1712",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1724",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1736",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1749",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1804",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1819",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1834",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1849",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1904",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1919",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1934",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1949",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2004",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2019",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2034",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2049",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2104",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2119",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2134",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2149",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2204",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2219",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2234",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2249",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2304",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2319",
+            "Line": "Yellow",
+            "Terminates": "Pelaw",
+            "dir": 0
+        },
+        {
+            "Time": "2331",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2343",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2358",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0013",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0536",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0551",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0606",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0621",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0636",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0651",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0659",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0714",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0729",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0744",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0759",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0814",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0829",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0844",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0859",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0914",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0929",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0944",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0959",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1015",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1031",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1044",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1056",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1108",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1120",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1132",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1144",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1156",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1208",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1220",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1232",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1244",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1256",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1308",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1320",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1332",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1344",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1356",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1408",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1420",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1432",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1444",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1456",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1508",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1520",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1532",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1544",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1556",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1608",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1620",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1632",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1644",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1656",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1708",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1720",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1732",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1744",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1756",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1808",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1820",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1831",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1844",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1859",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1914",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1929",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1944",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1959",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2014",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2029",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2044",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2059",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2114",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2129",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2144",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2159",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2214",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2229",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2244",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2259",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2314",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2329",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2344",
+            "Line": "Green",
+            "Terminates": "Monument via Whitley Bay",
+            "dir": 1
+        },
+        {
+            "Time": "2359",
+            "Line": "Green",
+            "Terminates": "Manors",
+            "dir": 1
+        }
+    ],
+    "Sunday": [
+        {
+            "Time": "0640",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0704",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0734",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0804",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0834",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0904",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "0934",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1004",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1034",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1049",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1104",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1119",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1134",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1149",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1204",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1219",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1234",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1249",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1304",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1319",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1334",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1349",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1404",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1419",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1434",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1449",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1504",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1519",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1534",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1549",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1604",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1619",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1634",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1649",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1704",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1719",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1734",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1749",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1804",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1819",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1834",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1849",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1904",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1919",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1934",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "1949",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2004",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2019",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2034",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2049",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2104",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2119",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2134",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2149",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2204",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2219",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2234",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2249",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2304",
+            "Line": "Yellow",
+            "Terminates": "South Shields",
+            "dir": 0
+        },
+        {
+            "Time": "2319",
+            "Line": "Yellow",
+            "Terminates": "Pelaw",
+            "dir": 0
+        },
+        {
+            "Time": "2331",
+            "Line": "Yellow",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2343",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "2358",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0013",
+            "Line": "Yellow",
+            "Terminates": "Longbenton",
+            "dir": 0
+        },
+        {
+            "Time": "0621",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0651",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0721",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0751",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0821",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0851",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0915",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "0945",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1000",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1015",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1030",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1044",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1059",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1114",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1129",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1144",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1159",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1214",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1229",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1244",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1259",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1314",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1329",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1344",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1359",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1414",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1429",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1444",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1459",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1514",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1529",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1544",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1559",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1614",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1629",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1644",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1659",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1714",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1729",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1744",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1759",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1814",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1829",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1844",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1859",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1914",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1929",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1944",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "1959",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2014",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2029",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2044",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2059",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2114",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2129",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2144",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2159",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2214",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2229",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2244",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        },
+        {
+            "Time": "2259",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 1
+        }
+    ]
+}

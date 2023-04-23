@@ -1,0 +1,1442 @@
+{
+    "Weekday": [
+        {
+            "Time": "0538",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0550",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0602",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0614",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0626",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0638",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0650",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0702",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0714",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0726",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0738",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0750",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0802",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0814",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0826",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0838",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0850",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0902",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0914",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0926",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0938",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0950",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1002",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1014",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1026",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1038",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1050",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1102",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1114",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1126",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1138",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1150",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1202",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1214",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1226",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1238",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1250",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1302",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1314",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1326",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1338",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1350",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1402",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1414",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1426",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1438",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1450",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1502",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1514",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1526",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1538",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1550",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1602",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1614",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1626",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1638",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1650",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1702",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1714",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1726",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1739",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1754",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1809",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1813",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "1824",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1839",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1854",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1909",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1924",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1939",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1954",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2009",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2024",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2039",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2054",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2109",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2124",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2139",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2154",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2209",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2224",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2239",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2254",
+            "Line": "Green",
+            "Terminates": "Sunderland",
+            "dir": 0
+        },
+        {
+            "Time": "2309",
+            "Line": "Green",
+            "Terminates": "Pelaw",
+            "dir": 0
+        },
+        {
+            "Time": "2321",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2331",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        },
+        {
+            "Time": "2346",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        },
+        {
+            "Time": "0006",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        }
+    ],
+    "Saturday": [
+        {
+            "Time": "0539",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0554",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0609",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0624",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0639",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0654",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0709",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0724",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0739",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0754",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0809",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0824",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0839",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0851",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0903",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0916",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0928",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0940",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0952",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1004",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1016",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1028",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1040",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1052",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1104",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1116",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1128",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1140",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1152",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1204",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1216",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1228",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1240",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1252",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1304",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1316",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1328",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1340",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1352",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1404",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1416",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1428",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1440",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1452",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1504",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1516",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1528",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1540",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1552",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1604",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1616",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1628",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1640",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1652",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1704",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1716",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1728",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1740",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1754",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1809",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1813",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "1824",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1839",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1854",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1909",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1924",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1939",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1954",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2009",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2024",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2039",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2054",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2109",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2124",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2139",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2154",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2209",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2224",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2239",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2254",
+            "Line": "Green",
+            "Terminates": "Sunderland",
+            "dir": 0
+        },
+        {
+            "Time": "2309",
+            "Line": "Green",
+            "Terminates": "Pelaw",
+            "dir": 0
+        },
+        {
+            "Time": "2321",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2331",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        },
+        {
+            "Time": "2346",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        },
+        {
+            "Time": "0006",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        }
+    ],
+    "Sunday": [
+        {
+            "Time": "0626",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0647",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0717",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0747",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0816",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0844",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0909",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0924",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0939",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "0954",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1009",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1024",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1039",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1054",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1109",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1124",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1139",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1154",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1209",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1224",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1239",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1254",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1309",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1324",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1339",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1354",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1409",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1424",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1439",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1454",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1509",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1524",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1539",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1554",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1609",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1624",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1639",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1654",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1709",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1724",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1739",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1754",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1809",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1824",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1839",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1854",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1909",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1924",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1939",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "1954",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2009",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2024",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2039",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2054",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2109",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2124",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2139",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2154",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2209",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2224",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2239",
+            "Line": "Green",
+            "Terminates": "South Hylton",
+            "dir": 0
+        },
+        {
+            "Time": "2254",
+            "Line": "Green",
+            "Terminates": "Sunderland",
+            "dir": 0
+        },
+        {
+            "Time": "2309",
+            "Line": "Green",
+            "Terminates": "Pelaw",
+            "dir": 0
+        },
+        {
+            "Time": "2321",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 0
+        },
+        {
+            "Time": "2331",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        },
+        {
+            "Time": "2346",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 0
+        }
+    ]
+}

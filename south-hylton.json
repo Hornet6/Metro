@@ -1,0 +1,1358 @@
+{
+    "Weekday": [
+        {
+            "Time": "0602",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0614",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0626",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0638",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0650",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0702",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0714",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0726",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0738",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0750",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0802",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0814",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0826",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0838",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0850",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0902",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0913",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0926",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0938",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0950",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1002",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1014",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1026",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1038",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1050",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1102",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1114",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1126",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1138",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1150",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1202",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1214",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1226",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1238",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1250",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1302",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1314",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1326",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1338",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1350",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1402",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1414",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1426",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1438",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1450",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1502",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1514",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1526",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1538",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1550",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1602",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1614",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1626",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1638",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1650",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1702",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1714",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1727",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1739",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1752",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1807",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1819",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1829",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "1837",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1852",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1907",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1922",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1937",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1952",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2007",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2023",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2037",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2052",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2107",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2122",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2137",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2152",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2207",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2222",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2237",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2252",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2307",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2317",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "2332",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2347",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        }
+    ],
+    "Saturday": [
+        {
+            "Time": "0606",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0622",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0637",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0652",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0707",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0722",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0737",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0752",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0807",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0822",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0837",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0852",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0907",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0925",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0937",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0949",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1001",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1013",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1025",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1037",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1049",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1101",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1113",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1125",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1137",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1149",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1201",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1213",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1225",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1237",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1249",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1301",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1313",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1325",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1337",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1349",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1401",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1413",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1425",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1437",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1449",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1501",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1513",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1525",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1537",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1549",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1601",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1613",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1627",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1637",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1649",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1701",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1713",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1725",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1738",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1752",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1807",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1821",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1830",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "1837",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1852",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1907",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1922",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1937",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1952",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2007",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2022",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2037",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2052",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2107",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2122",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2137",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2152",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2207",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2222",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2237",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2252",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2307",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2317",
+            "Line": "Green",
+            "Terminates": "South Gosforth",
+            "dir": 1
+        },
+        {
+            "Time": "2332",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        },
+        {
+            "Time": "2347",
+            "Line": "Green",
+            "Terminates": "Regent Centre",
+            "dir": 1
+        }
+    ],
+    "Sunday": [
+        {
+            "Time": "0706",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0736",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0800",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0830",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0900",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0930",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "0952",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1007",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1022",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1037",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1052",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1107",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1122",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1137",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1152",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1207",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1222",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1237",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1252",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1307",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1322",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1337",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1352",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1407",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1422",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1437",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1452",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1507",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1522",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1537",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1552",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1607",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1622",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1637",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1652",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1707",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1722",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1737",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1752",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1807",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1822",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1837",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1852",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1907",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1922",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1937",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "1952",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2007",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2022",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2037",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2052",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2107",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2122",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2137",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2152",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2207",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2222",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2237",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        },
+        {
+            "Time": "2252",
+            "Line": "Green",
+            "Terminates": "Airport",
+            "dir": 1
+        }
+    ]
+}
